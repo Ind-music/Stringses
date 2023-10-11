@@ -11,31 +11,31 @@
         "pyrogram",
         "telethon"
     ],
-    "repository": "https://github.com/AnonymousX1025/StringGenBot",
+    "repository": "https://github.com/Ind-music/Stringses",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "20521636",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "b3fd1fb99034f044c8479f5b930ec39e",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6608814867:AAHNtC5UWrboK309hmrXvdynWlKniSGtIgU",
         "required": true
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "",
+        "value": "5491313078",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get this value from cloud.mongodb.com",
-        "value": "",
+        "value": "mongodb+srv://navi:navi @cluster0.ckp6ijn.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       }
     },
